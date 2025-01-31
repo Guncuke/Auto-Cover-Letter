@@ -1,6 +1,6 @@
 import streamlit as st
 from tools.generate_letter import generate_research_letter
-from tools.pdf_extract import extract_text_from_pdf
+from tools.extract import extract_text
 
 
 def main():
@@ -13,11 +13,11 @@ def main():
     special_pref = st.text_input("Special Preferences", "Try to be close to the professor's research direction.")
     
     # PDF 上传
-    pdf_file = st.file_uploader("Upload your CV (PDF)", type="pdf")
+    resume_file = st.file_uploader("Upload your CV (PDF/DOCX)", type=["pdf", "docx"])
     
-    if pdf_file:
+    if resume_file:
         # 提取简历文本
-        resume = extract_text_from_pdf(pdf_file)
+        resume = extract_text(resume_file)
         
         # 生成信件
         if st.button("Generate Letter"):
