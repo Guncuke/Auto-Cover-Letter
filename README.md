@@ -2,6 +2,8 @@
 
 Automatically generate a cover letter based on the resume according to the input intention college and supervisor.
 
+![demo](images\demo.png)
+
 What do you need to pass in? Resume, serp api and openai api.
 
 Running process:  
@@ -12,5 +14,4 @@ Running process:
 
 TODO:
 
-- [ ] web-ui
 - [ ] multi-input resume
