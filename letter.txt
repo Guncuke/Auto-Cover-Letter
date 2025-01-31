@@ -1,0 +1,22 @@
+Subject: Research Internship Opportunity from June to September 2024  
+
+Dear Professor Kaiming He,  
+
+I hope this email finds you well. My name is Canhui Wu, and I am currently pursuing my Master¡¯s degree in Computer Science and Technology at Xi¡¯an Jiaotong University (XJTU). I am writing to express my strong interest in joining your research group as a research intern from June to September 2024. Your groundbreaking work in areas such as image processing, deep learning generalization, and quantum resource scheduling has deeply inspired me, and I believe my background aligns closely with your ongoing research directions.  
+
+During my academic journey, I have focused extensively on machine learning systems and federated learning, particularly in addressing challenges related to privacy, robustness, and efficiency. For instance, in the project **Secure Dataset Condensation for Privacy-Preserving Vertical Federated Learning**, I proposed and implemented a novel dataset distillation method that leverages secure aggregation (via secret sharing) and differential privacy to protect data privacy during training. This work was published at ECML PKDD 2024, where I served as the first author and led all aspects of the project, from literature review to experimental implementation. Additionally, in the project **RoseAgg**, I contributed to designing a robust aggregation strategy against targeted collusion attacks in federated learning, which was published in IEEE Transactions on Information Forensics and Security. These experiences have equipped me with a solid foundation in both theoretical analysis and practical implementation of advanced machine learning techniques.  
+
+Beyond my research contributions, I have hands-on experience in developing scalable machine learning frameworks. In the **Needle** project, I built a deep learning training framework from scratch, implementing computational graphs based on Directed Acyclic Graphs (DAG), automatic differentiation, and common neural network architectures. The framework supports multiple backends, including Numpy, CPU, and CUDA-based NDArray structures, showcasing my proficiency in low-level system design and optimization. Furthermore, my work on fine-tuning large language models like Qwen2.5-3B for educational purposes (XJTU-Bot) highlights my ability to adapt and optimize state-of-the-art models for specific applications.  
+
+I am particularly drawn to your recent work on **dynamic inhomogeneous quantum resource scheduling using reinforcement learning** and its potential implications for real-time quantum information processing. My expertise in building robust machine learning systems, combined with my passion for tackling complex optimization problems, positions me well to contribute meaningfully to your team. I am eager to explore how reinforcement learning techniques can be further refined and applied to emerging domains such as quantum computing.  
+
+In addition to my technical skills, I pride myself on my ability to communicate effectively and collaborate within multidisciplinary teams. As evidenced by my leadership in several group projects and participation in prestigious competitions (e.g., National College Computer Skills Challenge, Huawei Software Elite Challenge), I consistently strive to deliver high-quality results while fostering a collaborative environment.  
+
+I would be honored to contribute to your research endeavors and learn from your expertise. Please find my resume attached for your reference, and I would be delighted to discuss how my skills and experiences align with your lab¡¯s goals. Thank you for considering my application, and I look forward to the possibility of working under your guidance.  
+
+Best regards,  
+Canhui Wu  
+Master¡¯s Candidate, Computer Science and Technology  
+Xi¡¯an Jiaotong University  
+Email: wucanhui@stu.xjtu.edu.cn  
+GitHub: [https://github.com/Guncuke](https://github.com/Guncuke)
